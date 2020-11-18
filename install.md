@@ -9,3 +9,8 @@ conda active pybook
 
 설치 - pip install jupyter  
 실행 - jupyter notebook  
+
+### 라이브러리 설치(pandas, numpy,. matplotlib)
+
+pip install pandas numpy matplotlib
+
